@@ -1,0 +1,4 @@
+*.class
+Wordle.jar
+com/
+.DS_Store
